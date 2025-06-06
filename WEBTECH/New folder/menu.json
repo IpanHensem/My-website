@@ -1,0 +1,216 @@
+[
+
+        {
+            "name": "CHOKI CHOKI",
+            "price": "RM2.00/EACH",
+            "image": "chokichoki.png",
+            "links": "chokichoki.html",
+            "description": "Snacks"
+        },
+        {
+            "name": "NABATI",
+            "price": "RM2.00/EACH",
+            "image": "nabati.png",
+            "links": "nabati.html",
+            "description": "Snacks"
+        },
+        {
+            "name": "TOFILUK",
+            "price": "RM1.00/EACH",
+            "image": "tofiluk.png",
+            "links": "tofiluk.html",
+            "description": "Snacks"
+        },
+        {
+            "name": "CORNTOZ SMOKY BBQ",
+            "price": "RM2.50/EACH",
+            "image": "corntoz1.png",
+            "links": "corntoz1.html",
+            "description": "Snacks"
+        },
+        {
+            "name": "CORNTOZ HOT & SPICY",
+            "price": "RM2.50/EACH",
+            "image": "corntoz2.png",
+            "links": "corntoz2.html",
+            "description": "Snacks"
+        },
+        {
+            "name": "CORNTOZ CHILLI CHEEZ",
+            "price": "RM2.50/EACH",
+            "image": "corntoz3.png",
+            "links": "corntoz3.html",
+            "description": "Snacks"
+        },
+
+        {
+            "name": "MAGGI KARI",
+            "price": "RM2.00/EACH",
+            "image": "maggi1.png",
+            "links": "maggi1.html",
+            "description": "Instant Mee"
+        },
+
+        {
+            "name": "MAGGI AYAM",
+            "price": "RM2.00/EACH",
+            "image": "maggi2.png",
+            "links": "maggi2.html",
+            "description": "Instant Mee"
+        },
+        
+        {
+            "name": "MAGGI TOMYAM",
+            "price": "RM2.00/EACH",
+            "image": "maggi3.png",
+            "links": "maggi3.html",
+            "description": "Instant Mee"
+        },
+        {
+            "name": "TELUR",
+            "price": "RM1.00/EACH",
+            "image": "telur.png",
+            "links": "telur.html",
+            "description": "Miscellaneous"
+        },
+        {
+            "name": "BUBUR AYAM",
+            "price": "RM2.00/EACH",
+            "image": "bubur1.png",
+            "links": "bubur1.html",
+            "description": "Miscellaneous"
+        },
+        {
+            "name": "BUBUR CENDAWAN",
+            "price": "RM2.00/EACH",
+            "image": "bubur2.png",
+            "links": "bubur2.html",
+            "description": "Miscellaneous"
+        },
+        {
+            "name": "SAMYANG CHEESE",
+            "price": "RM6.00/EACH",
+            "image": "samyang1.png",
+            "links": "samyang1.html",
+            "description": "Instant Mee"
+        },
+        {
+            "name": "SAMYANG CARBONARA",
+            "price": "RM6.00/EACH",
+            "image": "samyang2.png",
+            "links": "samyang2.html",
+            "description": "Instant Mee"
+        },
+        {
+            "name": "SAMYANG ORIGINAL",
+            "price": "RM6.00/EACH",
+            "image": "samyang3.png",
+            "links": "samyang3.html",
+            "description": "Instant Mee"
+        },
+        {
+            "name": "BISKUT TIGER",
+            "price": "RM2.00/EACH",
+            "image": "biskut.png",
+            "links": "biskut.html",
+            "description": "Snacks"
+        },
+        {
+            "name": "SUPER RING",
+            "price": "RM2.00/EACH",
+            "image": "superring.png",
+            "links": "superring.html",
+            "description": "Snacks"
+        },
+        {
+            "name": "MINERAL",
+            "price": "RM1.00/EACH",
+            "image": "MINERAL.png",
+            "links": "MINERAL.html",
+            "description": "Beverages"
+        },      
+        {
+            "name": "SEASONS TEH BUNGA",
+            "price": "RM1.50/EACH",
+            "image": "season1.png",
+            "links": "season1.html",
+            "description": "Beverages"
+        },
+        {
+            "name": "SEASONS LEMON AIS",
+            "price": "RM1.50/EACH",
+            "image": "season2.png",
+            "links": "season2.html",
+            "description": "Beverages"
+        },
+        {
+            "name": "SEASONS SUSU SOYA",
+            "price": "RM1.50/EACH",
+            "image": "season3.png",
+            "links": "season3.html",
+            "description": "Beverages"
+        },
+        {
+            "name": "YEOGURT APPLE",
+            "price": "RM2.00/EACH",
+            "image": "yeogurt1.png",
+            "links": "yeogurt1.html",
+            "description": "Beverages"
+        },
+        {
+            "name": "YEOGURT ORIGINAL",
+            "price": "RM2.00/EACH",
+            "image": "yeogurt2.png",
+            "links": "yeogurt2.html",
+            "description": "Beverages"
+        },
+        {
+            "name": "YEOGURT ANGGUR",
+            "price": "RM2.00/EACH",
+            "image": "yeogurt3.png",
+            "links": "yeogurt3.html",
+            "description": "Beverages"
+        },
+        {
+            "name": "LATTE",
+            "price": "RM5.00/EACH",
+            "image": "latte.png",
+            "links": "latte.html",
+            "description": "Coffee"
+        },
+        {
+            "name": "MOCHA",
+            "price": "RM5.00/EACH",
+            "image": "mocha.png",
+            "links": "mocha.html",
+            "description": "Coffee"
+        },
+        {
+            "name": "CAPPUCHINO",
+            "price": "RM5.00/EACH",
+            "image": "cappuchino.png",
+            "links": "cappuchino.html",
+            "description": "Coffee"
+        },
+        {
+            "name": "AMERICANO",
+            "price": "RM4.00/EACH",
+            "image": "americano.png",
+            "links": "americano.html",
+            "description": "Coffee"
+        },
+        {
+            "name": "MATCHA",
+            "price": "RM5.00/EACH",
+            "image": "matcha.png",
+            "links": "matcha.html",
+            "description": "Coffee"
+        },
+        {
+            "name": "CARAMEL MACCHIATO",
+            "price": "RM6.00/EACH",
+            "image": "caramelmacc.png",
+            "links": "caramelmacc.html",
+            "description": "Coffee"
+        }
+    ]
